@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning how to not write garage code
 - 💞️ I’m looking to collaborate on nothing
 - 📫 you cant reach me
-- Check out my personal website treemaster134.github.io (Planning to rewrite and redesign a large part of it)
+- Check out my personal website treemaster134.github.io (Currently rewriting and redesigning a large part of it)
